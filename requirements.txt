@@ -61,7 +61,7 @@ texttable==1.6.2
 Twisted==17.9.0
 ufw==0.36
 unattended-upgrades==0.1
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==16.7.8
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
