@@ -58,7 +58,7 @@ ssh-import-id==5.7
 stevedore==1.31.0
 systemd-python==234
 texttable==1.6.2
-Twisted==17.9.0
+Twisted==22.4.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.22
